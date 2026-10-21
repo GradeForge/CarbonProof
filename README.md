@@ -4,7 +4,7 @@
 
 **CarbonProof** is a climate-claim evidence auditing prototype that helps reviewers examine environmental claims through reproducible deterministic checks, evidence fingerprinting, optional AI-assisted review, append-only audit history, and blockchain registration on Ethereum Sepolia.
 
-> **Published demo:** _<!-- TODO: add your deployed site URL here -->_
+> **Published demo:** https://carbonproof-climate-c8ne.bolt.host
 
 Built for the **IEEE ClimateChain Global Hackathon 2026**.
 
