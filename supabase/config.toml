@@ -1,0 +1,3 @@
+[functions.ai-audit]
+verify_jwt = true
+entrypoint = "./functions/ai-audit/index.ts"
